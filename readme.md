@@ -6,9 +6,6 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for Github
 
-![alt text]()
 
 
-<img src="tie_desc.png" alt="Alt text" title="Optional title">
 
-![My Image](tie_desc.png)
