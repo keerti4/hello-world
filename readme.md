@@ -9,4 +9,4 @@ It now includes steps for Github
 ![alt text]()
 
 
-<img src="file:///C://1A%20SEM%202//CRASH%20COURSE//GITHUB//git//Data_analytics_project//tie_desc.png" alt="Alt text" title="Optional title">
+<img src="tie_desc.png" alt="Alt text" title="Optional title">
