@@ -10,3 +10,5 @@ It now includes steps for Github
 
 
 <img src="tie_desc.png" alt="Alt text" title="Optional title">
+
+![My Image](tie_desc.png)
